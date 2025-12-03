@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "メグメグ☆ファイアーエンドレスナイト",
+  "base_artist": "samfree feat.実谷なな",
+  "createdAt": "2025-12-03T08:13:41.639938Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メグメグ☆ファイアーエンドレスナイト",
+      "artist": "サンプラザ中野くん Feat. DJ よっしー Vs. Team KY",
+      "has_synced": false,
+      "path": "select/01_メグメグ☆ファイアーエンドレスナイト_サンプラザ中野くん_Feat._DJ_よっしー_Vs._Team_KY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メグメグ☆ファイアーエンドレスナイト",
+      "artist": "samfree feat. 実谷なな",
+      "has_synced": true,
+      "path": "select/02_メグメグ☆ファイアーエンドレスナイト_samfree_feat._実谷なな.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メグメグ☆ファイアーエンドレスナイト",
+      "artist": "samfree Feat. 実谷なな",
+      "has_synced": false,
+      "path": "select/pl_01_メグメグ☆ファイアーエンドレスナイト_samfree_Feat._実谷なな.txt"
+    }
+  ]
+}
